@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['447710173736', 'Owner', true],
-  ['447710173736', 'Ash', true], 
+  ['94719221805', 'Owner', true],
+  ['94713595045', 'VuFi Bot 🤖🅡🅝', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['94764497078', '32460248586', '919398758484']
+global.mods = ['94713595045'] 
+global.prems = ['94713595045]
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'VuFi Bot 🤖🅡🅝'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@SANDARU' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.packname = 'VuFi Bot 🤖🅡🅝' 
+global.author = 'VuFi Bot 🤖🅡🅝' 
+global.igfg = '▢ Follow on Instagram https://www.instagram.com/ravindufdo2002/' 
+global.dygp = 'https://chat.whatsapp.com/IUG2fuk3zL7HNH4zoYYbwq'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fgyt = 'https://www.instagram.com/ravindufdo2002/'
+global.fgpyp = 'https://www.facebook.com/Ravindu.Fernando.2002/'
+global.fglog = 'https://i.ibb.co/N1DfbGF/Whats-App-Image-2021-12-18-at-12-13-04-AM.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ L O A D I N H..*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ L O A D I N G..*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
